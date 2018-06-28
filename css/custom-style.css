@@ -1,0 +1,17 @@
+.carousel .indicators .indicator-item{
+background-color:grey !important;
+}
+
+.carousel .indicators .indicator-item.active{
+	background-color:green !important;
+}
+
+.logo-default-size{
+height:100px;
+width:150px;
+}
+
+.addspacepad{
+	padding-right:20px;
+	padding-left: 20px;
+}
